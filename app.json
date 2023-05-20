@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c2814359-e2c4-46c0-ad66-cf5dea59210d"
+      }
+    },
+    "owner": "lucifer1947"
   }
 }
